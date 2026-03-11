@@ -291,7 +291,6 @@ File dashboard dapat dilihat disini: [My_Dashboard](Power_BI/My_Dashboard.pbix)
 
 # Kesimpulan
 
-Pemberian diskon yang terlalu tinggi pada kategori Teknologi di bulan April 2017 menyebabkan rendahnya profit margin pada bulan tersebut. Hasil analisis menunjukkan bahwa diskon di atas 20% tidak diikuti dengan peningkatan volume penjualan dan justru menghasilkan kerugian yang signifikan.
+Pemberian diskon yang terlalu tinggi pada kategori Teknologi di bulan April 2017 berkontribusi terhadap rendahnya profit margin pada bulan tersebut. Hasil analisis menunjukkan bahwa diskon di atas 20% tidak diikuti dengan peningkatan volume penjualan dan justru menghasilkan kerugian yang signifikan.
 
-
-Temuan ini menunjukkan bahwa pemberian diskon yang terlalu besar pada suatu kategori dapat memberikan dampak negatif terhadap profitabilitas. Oleh karena itu, sebelum menerapkan diskon yang tinggi di masa mendatang, diperlukan analisis lebih lanjut untuk menentukan sweet spot atau threshold diskon pada setiap kategori supaya dapat memaksimalkan profit margin.
+Temuan ini menunjukkan bahwa pemberian diskon yang terlalu besar pada suatu kategori dapat berdampak negatif terhadap profitabilitas. Oleh karena itu, sebelum menerapkan diskon yang tinggi di masa mendatang, diperlukan analisis lebih lanjut untuk menentukan sweet spot atau threshold diskon pada setiap kategori supaya dapat mendorong penjualan sekaligus menjaga profitabilitas.
